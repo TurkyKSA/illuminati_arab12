@@ -1836,4 +1836,5 @@ const data = JSON.parse(fs.readFileSync('./data.json', 'utf8'));//require data.j
 
 
 
+client.login(process.env.BOT_TOKEN);
 
